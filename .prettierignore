@@ -1,0 +1,10 @@
+dist
+node_modules
+.github
+.changeset
+*.md
+pnpm-lock.yaml
+pnpm-worksapce.yaml
+.turbo
+.vercel
+.netlify

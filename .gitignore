@@ -1,0 +1,29 @@
+# Build Output
+dist/
+.output/
+
+# IDEs
+.vscode/
+
+# ENV
+.env
+
+# Dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Caches
+.turbo
+.astro
+.vercel
+
+# MacOS Specific Files
+.DS_Store
+
+# Test
+coverage/
